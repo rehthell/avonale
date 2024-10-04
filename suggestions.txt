@@ -1,0 +1,12 @@
+1. filtros
+    -> Família
+        - deve habilitar após Fabricante
+    -> Cadastro manual
+        - deve remover Família para atualizar resultados
+    -> Ortografia e Acentuação
+        - precisa de melhorias
+            * SE não quebrar o legado
+2. botão
+    -> campos   
+        - inverter Família e Fabricante
+        - validação de preenchimento
